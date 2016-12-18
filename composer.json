@@ -1,6 +1,27 @@
 {
-  "name": "d8ms-config/master",
-  "description": "master",
-  "type": "bonefish-package"
+    "name": "drupal-composer/drupal-project",
+    "description": "Subsite composer file",
+    "type": "project",
+    "license": "GPL-2.0+",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packagist.drupal-composer.org"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/dxvargas/d8ms-subsite.git"
+        }
+    ],
+    "require": {
+        "dxvargas/d8ms-subsite" : "master"
+    },
+    "require-dev": {
+    },
+    "conflict": {
+        "drupal/drupal": "*"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
 
