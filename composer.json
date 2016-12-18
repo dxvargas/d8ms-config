@@ -1,5 +1,5 @@
 {
-    "name": "drupal-composer/drupal-project",
+    "name": "d8ms/subsite",
     "description": "Subsite composer file",
     "type": "project",
     "license": "GPL-2.0+",
@@ -14,7 +14,7 @@
         }
     ],
     "require": {
-        "dxvargas/d8ms-subsite" : "master"
+        "d8ms/subsite" : "master"
     },
     "require-dev": {
     },
