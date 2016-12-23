@@ -1,5 +1,5 @@
-uuid: c0bed5ee-3b6a-4e6a-937c-58bb52302c45
-name: 'Drupal 8 Multisite'
+uuid: 4d5872e1-fd61-474e-9bad-f2396d4aa56d
+name: D8MS
 mail: admin@example.com
 slogan: ''
 page:
@@ -11,4 +11,4 @@ weight_select_max: 100
 langcode: en
 default_langcode: en
 _core:
-  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
