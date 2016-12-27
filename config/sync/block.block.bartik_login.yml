@@ -1,16 +1,16 @@
-uuid: f3af83f9-b174-436c-87aa-a8024792cbd8
+uuid: d8178be0-fdd0-443d-b200-7125002e1fb0
 langcode: en
-status: false
+status: true
 dependencies:
   module:
     - user
   theme:
-    - seven
+    - bartik
 _core:
   default_config_hash: 4QlSnWBcxxKMIFRM8sbu_MjSkcp3NjGgnVrc-lynQHI
-id: seven_login
-theme: seven
-region: '-1'
+id: bartik_login
+theme: bartik
+region: sidebar_first
 weight: 0
 provider: null
 plugin: user_login_block

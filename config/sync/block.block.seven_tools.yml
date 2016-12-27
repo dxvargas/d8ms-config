@@ -1,15 +1,19 @@
-uuid: 5459f3bf-0a24-4407-b662-e6b387bb77fb
+uuid: a11db5ce-42b2-47ee-8663-9c3329fcb05c
 langcode: en
-status: true
+status: false
 dependencies:
+  config:
+    - system.menu.tools
+  module:
+    - system
   theme:
-    - bartik
+    - seven
 _core:
   default_config_hash: xCOijLdB1-UgXxQ9a0D1_pd8vxNEhfMnxXZc8jYhHjs
-id: bartik_tools
-theme: bartik
-region: sidebar_first
-weight: 0
+id: seven_tools
+theme: seven
+region: '-1'
+weight: -1
 provider: null
 plugin: 'system_menu_block:tools'
 settings:

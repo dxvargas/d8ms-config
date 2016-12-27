@@ -1,4 +1,4 @@
-uuid: ff9e6e14-1d0b-4bb2-88a5-3ca8f6eb0709
+uuid: 390e7ccc-9319-4140-a871-50585bb758d1
 langcode: en
 status: true
 dependencies: {  }
@@ -10,10 +10,3 @@ weight: 1
 is_admin: false
 permissions:
   - 'access content'
-  - 'use text format basic_html'
-  - 'access comments'
-  - 'post comments'
-  - 'skip comment approval'
-  - 'access site-wide contact form'
-  - 'access shortcuts'
-  - 'search content'
