@@ -1,11 +1,11 @@
-uuid: 4d5872e1-fd61-474e-9bad-f2396d4aa56d
-name: D8MS
+uuid: 0cdf9954-40fa-4ad8-9763-3684c227dc81
+name: Site-Install
 mail: admin@example.com
 slogan: ''
 page:
   403: ''
   404: ''
-  front: /user/login
+  front: /node
 admin_compact_mode: false
 weight_select_max: 100
 langcode: en
