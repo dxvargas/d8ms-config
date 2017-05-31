@@ -7,14 +7,9 @@
         {
             "type": "composer",
             "url": "https://packages.drupal.org/8"
-        },
-        {
-            "type": "vcs",
-            "url": "git@github.com:dxvargas/d8ms-subsite.git"
         }
     ],
     "require": {
-        "d8ms/subsite" : "master"
     },
     "require-dev": {
     },
